@@ -1,3 +1,7 @@
+►币安（持BNB减40%手续费）：https://accounts.binance.com/register?ref=B8JG8G8V 币安邀请码：B8JG8G8V
+
+►欧易OKX（永久减免20%手续费）：https://cnouyi.gratis/join/7279960 欧易邀请码：7279960
+
 来自世界各地的公开 IPTV（互联网协议电视）频道的集合。
 
 ## Playlists
@@ -6,17 +10,9 @@ There are several versions of playlists that differ in the way they are grouped.
 
 ### Main playlist
 
-Playlist includes all known channels except adult channels.
-
-```
-https://iptv-org.github.io/iptv/index.m3u
-```
-
-And here is the full version:
-
-```
-https://iptv-org.github.io/iptv/index.nsfw.m3u
-```
+- [收集来自世界各地8000多个公开可用的IPTV]
+  - [除成人内容以外的已知频道.m3u](https://iptv-org.github.io/iptv/index.m3u)
+  - [包括完整内容所有已知频道.m3u](https://iptv-org.github.io/iptv/index.nsfw.m3u)
 
 ### Grouped by category
 
@@ -796,10 +792,6 @@ Same thing, but split up into separate files:
 </details>
 
 ## 稳定地址
-
-- [收集来自世界各地8000多个公开可用的IPTV](https://github.com/iptv-org/iptv)
-  - [除成人内容以外的已知频道.m3u](https://iptv-org.github.io/iptv/index.m3u)
-  - [包括完整内容所有已知频道.m3u](https://iptv-org.github.io/iptv/index.nsfw.m3u)
 
 全国可用直播源：
 - [国内电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国内电视台2023.m3u8) - (2023年2月更新 CCTV、各大卫视、上千个地方台)
